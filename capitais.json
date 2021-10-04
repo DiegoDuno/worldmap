@@ -12,16 +12,16 @@
     "longitude" : -47.8936
   },
   {
+    "key" : "HWCLD",
+    "name" : "Huawei Cloud",
+    "latitude" : -23.5503,
+    "longitude" : -46.6363
+  },
+  {
     "key" : "BOTIC",
     "name" : "O Boticário",
     "latitude" : -25.4995,
     "longitude" : -49.1723
-  },
-  {
-    "key" : "MG",
-    "name" : "Minas Gerais",
-    "latitude" : -19.9102,
-    "longitude" : -43.9266
   },
   {
     "key" : "RR",
